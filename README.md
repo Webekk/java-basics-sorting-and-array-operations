@@ -15,7 +15,8 @@ This repository contains simple Java programs demonstrating basic algorithms and
 
 2. Navigate to the project directory
 
-3.Open in IDE or use the terminal
+3. Open in IDE or use the terminal
+
 
 ## Technologies Used
 
