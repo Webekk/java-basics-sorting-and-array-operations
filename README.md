@@ -11,7 +11,6 @@ This repository contains simple Java programs demonstrating basic algorithms and
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/java-basics-sorting-and-array-operations.git
 
 2. Navigate to the project directory
 
